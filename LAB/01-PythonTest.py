@@ -1,3 +1,3 @@
 print("What is your favorite song?")
 song = input()
-print("Cool! I like", song, "too.")เพลงรัก
+print("Cool! I like", song, "too.")
